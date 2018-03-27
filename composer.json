@@ -1,0 +1,9 @@
+{
+	"require":{
+	},
+	"autoload":{
+		"classmap":[
+			"Qcode"
+		]
+	}
+}
